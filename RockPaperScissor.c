@@ -1,8 +1,6 @@
 /*-------------------------------------
 RockPaperScissors.c
 Program to play rock,paper,scissors
-Renu Thomas
-14/7/24
 --------------------------------------*/
 
 # include <stdio.h>
