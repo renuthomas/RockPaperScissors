@@ -88,7 +88,7 @@ void Play(char *username)
 		}
 		
 		printf("Computer Score:%d vs Human Score:%d",Computer_Score,Human_Score);
-		//printf("\ni=%d\n",i);
+		
 		printf("\n");
 		getch();
 	}
